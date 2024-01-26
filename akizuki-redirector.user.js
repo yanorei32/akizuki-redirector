@@ -1,13 +1,14 @@
 // ==UserScript==
 // @name         Akizuki Redirector
 // @namespace    https://github.com/yanorei32/akizuki-redirector
-// @version      0.1.3
+// @version      0.1.4
 // @description  新しいURLにリダイレクトします。たぶん。
 // @author       yanorei32
 // @match        https://akizukidenshi.com/catalog/g/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=akizukidenshi.com
 // @updateURL    https://github.com/yanorei32/akizuki-redirector/raw/master/akizuki-redirector.user.js
 // @grant        none
+// @license      BSD-2-Clause
 // @run-at       document-start
 // ==/UserScript==
 
