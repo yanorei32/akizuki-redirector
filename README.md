@@ -1,5 +1,12 @@
 # akizuki-redirector
 
+## Chrome拡張があるようです！
+Chromium系をお使いの方はこちらのほうが使いやすいかもしれません。
+
+[zgtk-guri/aki-old-new](https://github.com/zgtk-guri/aki-old-new/)
+
+https://twitter.com/zgtk_guri/status/1750708956480360500
+
 ## 導入方法
 
 1. 前提となる [Tampermonkey](https://www.tampermonkey.net/) をお使いのブラウザに導入します。
