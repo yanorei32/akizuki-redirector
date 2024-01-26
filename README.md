@@ -1,7 +1,7 @@
 # akizuki-redirector
 
 ## Chrome拡張があるようです！
-Chromium系をお使いの方はこちらのほうが使いやすいかもしれません。
+Chromium系をお使いの方は @zgtk-guri 氏のこちらのほうが使いやすいかもしれません。
 
 [zgtk-guri/aki-old-new](https://github.com/zgtk-guri/aki-old-new/)
 
