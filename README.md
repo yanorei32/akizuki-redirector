@@ -1,5 +1,11 @@
 # akizuki-redirector
 
+## リリースから約一日、ついに不要に！
+公式に対応され不要になりました…！！
+やったー！！
+
+https://twitter.com/akizuki_akiba/status/1751077984638001256
+
 ## Chrome拡張があるようです！
 Chromium系をお使いの方は @zgtk-guri 氏のこちらのほうが使いやすいかもしれません。
 
